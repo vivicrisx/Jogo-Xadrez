@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rei
+comment0.text=\r\n\ Classe\ rei\ e\ seus\ movimentos\ espec\u00EDficos\ \r\n\ \r\n\ \ @author\ Viviane\ Cristine\ \r\n\ \ @author\ Matheus\ Leite\r\n
+comment1.params=casa\ tipo
+comment1.target=Rei(Casa,\ int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Rei\r\n
+comment2.params=origemX\ origemY\ destinoX\ destinoY\ jogo
+comment2.target=boolean\ podeMover(int,\ int,\ int,\ int,\ Jogo)
+comment2.text=\ \r\n\ \ \ \ \ \ \ m\u00E9todo\ de\ movimento\ normal\ do\ rei\r\n
+comment3.params=origemX\ origemY\ destinoX\ destinoY\ jogo\ torre
+comment3.target=boolean\ roqueMenor(int,\ int,\ int,\ int,\ Jogo,\ Torre)
+comment3.text=\r\n\ \ \ \ \ \ \ m\u00E9todo\ do\ roque\ menor\ do\ rei\r\n\ \ \ \ \ \ \ o\ rei\ anda\ duas\ casas\ e\ o\ rei\ e\ a\ torre\ trocam\ de\ lugar\ (lado\ direito)\r\n\ \ \ \ \ \ \ jogadas\ para\ cada\ tipo\ de\ pe\u00E7a\ rei\ (preto\ e\ branco)\r\n
+comment4.params=origemX\ origemY\ destinoX\ destinoY\ jogo\ torre
+comment4.target=boolean\ roqueMaior(int,\ int,\ int,\ int,\ Jogo,\ Torre)
+comment4.text=\r\n\ \ \ \ \ \ \ m\u00E9todo\ do\ roque\ maior\ do\ rei\r\n\ \ \ \ \ \ \ o\ rei\ anda\ duas\ casas\ e\ o\ rei\ e\ a\ torre\ trocam\ de\ lugar\ (lado\ esquerdo)\r\n\ \ \ \ \ \ \ jogadas\ para\ cada\ tipo\ de\ pe\u00E7a\ rei\ (preto\ e\ branco)\r\n
+numComments=5

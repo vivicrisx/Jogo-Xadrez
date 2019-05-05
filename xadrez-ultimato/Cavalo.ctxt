@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cavalo
+comment1.params=casa\ tipo
+comment1.target=Cavalo(Casa,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Cavalo\r\n
+comment2.params=origemX\ origemY\ destinoX\ destinoY\ jogo
+comment2.target=boolean\ podeMover(int,\ int,\ int,\ int,\ Jogo)
+numComments=3
